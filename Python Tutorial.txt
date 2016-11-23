@@ -1,0 +1,53 @@
+Learning Python
+
+https://www.fullstackpython.com/
+ - all about fullstack dev
+- security
+- web development
+- testing
+- deployment
+- data
+- web api's
+
+
+Python Coding Style
+https://github.com/amontalenti/elements-of-python-style
+
+Learning Python in Y minutes
+https://learnxinyminutes.com/docs/python/
+
+
+PYCHARM IDE 
+Linux OS
+
+
+Python Web Framework
+https://www.linkedin.com/pulse/best-10-python-frameworks-web-development-elyn-z-6059523132912394240
+
+DJango
+TurboGears
+web2py
+
+
+https://thinkster.io/django-angularjs-tutorial#logging-users-in
+
+
+WEBSERVER
+
+Nginx
+
+Django best practice
+https://lincolnloop.com/django-best-practices/
+
+best practice for django development
+https://www.quora.com/What-are-some-best-practices-for-Django-development
+
+https://www.fullstackpython.com/django.html
+
+http://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html
+
+
+https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-14-04
+
+
+https://www.tutorialspoint.com/django/django_basics.htm
